@@ -1,0 +1,133 @@
+.NavBar{
+    background-color: #2c3e50;
+}
+.navbar-toggler , .navbar-toggler-icon{
+    color: white;
+}
+a.Brand{
+    color:#ffffff;
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 22px;
+}
+
+a.element{
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'Roboto Condensed';
+}
+.Row1{
+    background-color: #18bc9c;
+    padding-top: 60px;
+    color: #ffffff;
+}
+.star{
+    margin-top: -8px;
+}
+.Header{
+    padding-top: 20px;
+}
+.Row1 p{
+    font-size: 14px;
+    font-family: 'Roboto Condensed';
+}
+.Row21{
+    font-family: 'Roboto Condensed';
+    color: #2c3e50;
+    padding-top: 30px;
+    font-size: 12px;
+}
+
+.hr1{
+    background-color: #ffffff;
+    height: 2px;
+    width: 70px;
+    
+    }
+.hr2{
+    background-color: #ffffff;
+    height: 2px;
+    width: 70px;
+    
+    
+    }
+.hr21{
+    background-color: #2c3e50;
+    height: 2px;
+    width: 70px;
+}
+.hr22{
+    background-color: #2c3e50;
+    height: 2px;
+    width: 70px;
+}
+
+
+.LineAwesome{
+    margin: 0 auto;
+    display: flex;
+}
+
+.Row4{
+    color: #ffffff;
+    background-color: #18bc9c;
+    padding-top: 40px;
+    font-family: 'Roboto Condensed';
+}
+.Row5{
+    color: #ffffff;
+    background-color: #18bc9c;
+    padding-top: 40px;
+    font-family: 'Roboto Condensed';
+    font-size: 14px;
+}
+.Row6{
+    background-color: #18bc9c;
+    padding-top: 20px;
+    padding: 40px;
+}
+.Row6 i{
+    padding-right: 10px;
+}
+.btn{
+    background-color: #18bc9c;
+    border-color: #ffffff;
+}
+.btn:hover{
+    background-color: #18bc9c;
+    border-color: #ffffff;
+}
+.Row7{
+    font-family: 'Roboto Condensed';
+    color: #2c3e50;
+    padding-top: 30px;
+    font-size: 12px;
+}
+
+.form-control{
+    border: solid 1px #ffffff;
+    border-bottom: solid 2px #e9ecef;
+   
+}
+
+label{
+    color: #6c757d;
+    font-family: "lato";
+    font-size: 14px;
+}
+.contact{
+    font-family: 'Roboto Condensed';
+    color: #2c3e50;
+}
+.footer{
+    font-family: 'Roboto Condensed';
+    background-color: #2c3e50;
+    color: #ffffff;
+    padding-top: 25px;
+    padding-bottom: 40px;
+
+}
+.hr{
+  display:flex;
+   
+}

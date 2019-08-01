@@ -1,0 +1,220 @@
+
+.NavBar{
+	background-color: #233845;
+}
+
+.item a{
+	color: white;
+	transition: all 0.6s ease-in-out;
+
+}
+.navbar-brand{
+	color: white;
+}
+.brand{
+	color: white;
+	font-family: 'Patrick Hand SC';
+	font-size: 25px;
+}
+.navbar-toggler-icon{
+	color: white;
+}
+.item{
+	font-family: 'Carrois Gothic SC';
+	font-size: 15px;
+}
+
+.item a:hover{
+	transform: scale(1.2,1.2);
+	border-bottom: solid 1px;
+
+}
+.carousel-item img{
+	transition: all 0.4s ease-in-out;
+	height: 500px;
+}
+.carousel-item p{
+	font-family: 'Carrois Gothic SC';
+	font-size: 20px;
+	color: #B43D7B;
+	background-color: white;
+}
+.carousel-item h2{
+	font-family: 'Patrick Hand SC';
+	color: white;
+	background-color: black;
+}
+
+.Brands{
+	padding-top: 40px; 
+	padding-left: 60px;
+	font-family: 'Patrick Hand SC';
+	color: black; 
+}
+.card {
+	margin: 20px;
+	margin-top: 40px;
+	transition: all 0.4s ease-in-out;
+	font-family: 'Carrois Gothic SC';
+	font-size: 20px;
+	transform: rotateY(0deg);
+}
+.card img{
+	height: 250px;
+}
+.card button{
+	margin: auto;
+	font-family: 'Amiko'
+}
+.first-view{
+	position: relative;
+}
+.containerr,.container-1,.container-2{
+	position: absolute;
+	margin-top: -230px;
+}
+
+.containerr,.container-1,.container-2 h1 , .containerr,.container-1,.container-2 p{
+	text-align: center;
+}
+#header,#header1,#header2{
+
+	visibility: hidden;
+}
+#list,#list1,#list2{
+	visibility: hidden;
+	text-align: center;
+
+}
+#back,#back1,#back2{
+	visibility: hidden;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-left: 40px;
+}
+#shop,#shop1,#shop2{
+	visibility: hidden;
+	margin-left: 10px;
+}
+
+
+.about{
+	margin-top: 80px;
+	padding: 50px 10px 10px 20px;
+	color: white;
+	background-color: #233845; 
+	
+}
+.about-header{
+	text-align: center;
+	margin: auto;
+	margin-top: -100px;
+	position: relative;
+	background-color: #B43D7B;
+	box-shadow: 3px 4px 8px 3px rgba(0, 0, 0, 0.3);
+}
+.about-header-ul{
+	font-family: 'Amiko';
+	font-size: 20px;
+	padding: 60px 20px 10px 20px;
+}
+.about-header h1{
+	font-family: 'Patrick Hand SC';;
+	font-size: 55px;
+}
+.about-header p{
+	font-family: 'Carrois Gothic SC';
+	font-size: 20px;
+}
+
+.about-services img{
+	border: solid 1px #80A8A8;
+	padding: 5px;
+	padding-bottom: 0;
+	border-radius: 100%;
+	background-color: #80A8A8;
+	box-shadow: 3px 4px 8px 3px rgba(0, 0, 0, 0.5);
+	position: absolute;
+	backface-visibility: hidden;
+	transition: all 0.4s ease-in-out;
+}
+.about-services h4{
+	padding: 50px;
+	font-family: 'Carrois Gothic SC';
+}
+.about-services img:hover{
+	opacity: 0.3;
+
+}
+
+.about-services{
+	padding: 20px;
+	margin-top:20px; 
+}
+.about-services p{
+	font-family: 'Amiko';
+	font-size: 18px;
+}
+.form-main{
+	width: 450px;
+	margin: auto;
+}
+
+.Models img{
+	padding: 50px 0 10px 0;
+	height: 430px;
+}
+
+
+.content-img{
+	border: 0;
+	font-family: 'Patrick Hand SC';
+	margin: auto;
+	padding: 80px 10px 50px 20px;
+	box-shadow: 3px 4px 8px 3px rgba(0, 0, 0, 0.5);
+}
+.content-img p ,.content-img button{
+	font-family: 'Amiko';
+}
+.content-img button{
+	text-align: center;
+}
+.contact{
+	margin-top: 100px;
+	color: white;
+	background-color: #233845; 
+
+	 
+}
+.icons{
+	padding: 30px;
+	margin: 20px 10px 20px 10px;
+	font-size: 36px;
+	border: solid 1px #80A8A8;
+	border-radius: 100%;
+	background-color: #80A8A8;
+	box-shadow: 3px 4px 8px 3px rgba(0, 0, 0, 0.4);
+}
+.contact h4{
+	padding: 10px 10px 10px 20px;
+	
+}
+.contact ul{
+	font-family: 'Patrick Hand SC';
+	font-size: 20px;
+}
+.email-header{
+	margin-left: 15px;
+}
+.map{
+	padding-left: 35px;
+	padding-right: 35px
+}
+.footer{
+	background-color: #233845; 
+}
+.font-awesome{
+	padding: 20px 0 20px 0;
+	font-size: 25px;
+	color: #B43D7B
+}
